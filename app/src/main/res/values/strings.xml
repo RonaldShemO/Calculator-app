@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mid Morning Simple Calculator</string>
+    <string name="calc_ttl"><u>Shem's Calculator</u></string>
+    <string name="num_1">Enter first number</string>
+    <string name="num_2">Enter second number</string>
+    <string name="ans">0.00</string>
+</resources>

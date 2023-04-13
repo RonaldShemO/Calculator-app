@@ -1,0 +1,12 @@
+com.example.midmorningsimplecalculator.app-constraint-layout-2.0.4-0 /home/emobilis/.gradle/caches/transforms-3/0849c1a7dfd0de35c29ffc2c164f7d57/transformed/constraint-layout-2.0.4/res
+com.example.midmorningsimplecalculator.app-coordinatorlayout-28.0.0-1 /home/emobilis/.gradle/caches/transforms-3/4fee9e8e0031ccd85f23f41d47d1990f/transformed/coordinatorlayout-28.0.0/res
+com.example.midmorningsimplecalculator.app-support-compat-28.0.0-2 /home/emobilis/.gradle/caches/transforms-3/700625e204cfab68866d837fcbf079d8/transformed/support-compat-28.0.0/res
+com.example.midmorningsimplecalculator.app-appcompat-v7-28.0.0-3 /home/emobilis/.gradle/caches/transforms-3/dc84a15bb63715a300083dbba2434c28/transformed/appcompat-v7-28.0.0/res
+com.example.midmorningsimplecalculator.app-pngs-4 /home/emobilis/AndroidStudioProjects/MidMorningSimpleCalculator/app/build/generated/res/pngs/debug
+com.example.midmorningsimplecalculator.app-resValues-5 /home/emobilis/AndroidStudioProjects/MidMorningSimpleCalculator/app/build/generated/res/resValues/debug
+com.example.midmorningsimplecalculator.app-rs-6 /home/emobilis/AndroidStudioProjects/MidMorningSimpleCalculator/app/build/generated/res/rs/debug
+com.example.midmorningsimplecalculator.app-packageDebugResources-7 /home/emobilis/AndroidStudioProjects/MidMorningSimpleCalculator/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.midmorningsimplecalculator.app-packageDebugResources-8 /home/emobilis/AndroidStudioProjects/MidMorningSimpleCalculator/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.midmorningsimplecalculator.app-merged_res-9 /home/emobilis/AndroidStudioProjects/MidMorningSimpleCalculator/app/build/intermediates/merged_res/debug
+com.example.midmorningsimplecalculator.app-debug-10 /home/emobilis/AndroidStudioProjects/MidMorningSimpleCalculator/app/src/debug/res
+com.example.midmorningsimplecalculator.app-main-11 /home/emobilis/AndroidStudioProjects/MidMorningSimpleCalculator/app/src/main/res
